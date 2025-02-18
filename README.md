@@ -18,7 +18,6 @@ The analysis focuses on extracting meaningful insights from an e-commerce datase
 
 - **Google BigQuery** – Data warehousing and SQL querying
 - **SQL** – Data manipulation and analysis
-- **Power BI/Excel** – Data visualization (if applicable)
 - **Git/GitHub** – Version control and project sharing
 
 ---
